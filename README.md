@@ -13,8 +13,7 @@ npm install -g http-server
 ```
 http-server ./
 ```
-- Copie o output do terminal a parte que se encontra o http e cole no seu browser  
+- Copie o output do terminal a parte que se encontra o http e cole no seu browser  <br />
 
-
-* Para parar o servidor aperte "Ctrl+C"  
+** Para parar o servidor aperte "Ctrl+C"  
 ** Para que o conteúdo alterado de "script.js" se mostre no browser é necessário clicar com o botão direito do mouse no botão de refresh da página e escolher a opção de limpar cache e recarregamento forçado   
