@@ -1,5 +1,10 @@
-# Javascript Básico
-Repositório voltado para o aprendizado de Javascript
+# JavaScript Projects Collection :computer:
+
+Welcome to my collection of JavaScript projects! This repository is dedicated to learning JavaScript and contains various applications and exercises that I've worked on, including a CPF validator using JavaScript and HTML.
+
+## Repositório voltado para o aprendizado de Javascript
+
+Este repositório contém um validador de CPF em Javascript e html, para executá-lo é necessário a criação de um servidor web local.
 
 ### Primeiros Passos
 Este repositório contém um validador de CPF em Javascript e html, para executá-lo é necessário a criação de um servidor web local.
